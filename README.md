@@ -211,7 +211,7 @@ INFO ETL pipeline completed successfully.
 
 ---
 
-## Key Skills Demonstrated
+## Key Technologies Used
 
 - ETL Pipeline Development
 - Data Extraction from AWS RDS
