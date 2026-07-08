@@ -246,7 +246,7 @@ Potential enhancements include:
 
 GitHub: https://github.com/SyedNoorAliDev
 
-LinkedIn: *(Add your LinkedIn profile here)*
+LinkedIn: https://www/linkedin.com/in/syed-noor-ali/
 
 ---
 
